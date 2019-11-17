@@ -1,8 +1,6 @@
----
-#Optimization: Ordinary Least Squares Vs. Gradient Descent - from scratch
+#Optimization: Ordinary Least Squares Vs. Gradient Descent - from scratch#
 
-##What is Optimization?Techniques for optimization - numerical approach and iterative approach, and finally implementation in Python.
----
+##What is Optimization?Techniques for optimization - numerical approach and iterative approach, and finally implementation in Python.##
 
 **Optimization**
 
