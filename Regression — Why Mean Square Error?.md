@@ -1,5 +1,7 @@
-##How do I know what is the correct Loss Function for my Algorithm? 
+## How do I know what is the correct Loss Function for my Algorithm? 
 Because if I choose the wrong Loss Function, I’ll get the wrong solution.
+
+----
 
 In Machine Learning, our main goal is to minimize the error which is defined by the Loss Function. 
 And every type of Algorithm has different ways of measuring the error. In this article I’ll be going through some basic Loss Functions used in Regression Algorithms and why exactly are they that way. Let’s begin.
